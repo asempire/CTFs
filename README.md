@@ -7,3 +7,6 @@ This repo contains write-ups for the CTFs I played from the creation of this rep
 
 ## Ritsec 2023 
   This is the second ctf added to this repo: [Ritsec 2023](./ritsec2023/ritsec.md) 
+
+## UMDCTF 2023
+  This was a very well made ctf event that was both hard and fun at the same time : [UMDCTF 2023](./UMD2023/UMD.md)
