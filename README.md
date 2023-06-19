@@ -10,3 +10,7 @@ This repo contains write-ups for the CTFs I played from the creation of this rep
 
 ## UMDCTF 2023
   This was a very well made ctf event that was both hard and fun at the same time : [UMDCTF 2023](./UMD2023/UMD.md)
+
+## NahamconCTfc 2023
+  The CTF hosted by one of the best people known in the cyberspace:
+  [Nahamcon 2023](./nahamcon2023/nahamcon2023.md)
